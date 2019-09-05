@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -22,9 +21,6 @@
  <img src="photo nicolas espitalier.jpg">
  <img src="33-1.png">
  <img src="RVGWA.jpg">
- img{
- width:  55px;
- height: 55px;
  </body>
  }
  

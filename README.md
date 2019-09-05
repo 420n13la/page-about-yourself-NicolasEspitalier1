@@ -1,5 +1,3 @@
-# 01-myfirstwebpage
-First Web Page
 <!DOCTYPE html>
 <html>
 <head>

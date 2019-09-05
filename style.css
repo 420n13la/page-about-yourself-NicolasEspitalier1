@@ -1,2 +1,36 @@
 <style>
 
+@import url('https://fonts.googleapis.com/css?family=Manjari&display=swap');
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+  font-family: 'Manjari', sans-serif;
+}
+
+h2 {
+  color: blue;
+  text-align: left;
+}
+
+p {
+  font-size: 20px;
+}
+img1{
+	width: 20%;
+	
+}
+img2{
+	width:30px;
+	height:20px;
+}
+img3{
+	width:10px;
+	height:10px;
+}
+</style>
+
